@@ -16,12 +16,7 @@ import Paragraph from '../components/paragraph'
 import { ChevronRightIcon } from '@chakra-ui/icons'
 import Layout from '../components/layouts/article'
 import { BioSection, BioYear } from '../components/bio'
-import {
-  IoLogoInstagram,
-  IoLogoLinkedin,
-  IoLogoGithub,
-  IoLogoTelegram
-} from 'react-icons/io5'
+import { IoLogoInstagram, IoLogoLinkedin, IoLogoGithub } from 'react-icons/io5'
 import { FaTelegramPlane } from 'react-icons/fa'
 
 const Page = () => {
@@ -101,7 +96,7 @@ const Page = () => {
           </BioSection>
           <BioSection>
             <BioYear>2018-2023</BioYear>
-            Worked at "Gazprombank", Russia.
+            Worked at &quot;Gazprombank&quot;, Russia.
           </BioSection>
           <BioSection>
             <BioYear>2019-2023</BioYear>
