@@ -30,7 +30,7 @@ const Page = () => {
           mb={6}
           align="center"
         >
-          Hello, I&apos;m a full-stack developer based in Mexico!
+          Hello, I&apos;m a full-stack developer based in United States!
         </Box>
 
         <Box display={{ md: 'flex' }}>
@@ -65,10 +65,10 @@ const Page = () => {
           </Heading>
           <Paragraph>
             My main activity is freelancing and full-stack development. The
-            place of residence is Mexico. I have a strong passion for building
-            IT products, exploring new technologies and developing the digital
-            space. Everything you need to launch products, from planning and
-            designing to solving real problems with code in one person.
+            place of residence is United States. I have a strong passion for
+            building IT products, exploring new technologies and developing the
+            digital space. Everything you need to launch products, from planning
+            and designing to solving real problems with code in one person.
             Strengths - high productivity, ability to learn quickly, creativity,
             stamina (I can work 16 hours on an interesting project), stress
             tolerance and broad knowledge of IT. Weaknesses - addiction to
