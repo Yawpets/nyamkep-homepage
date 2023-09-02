@@ -24,11 +24,11 @@ const Work = () => {
           </ListItem>
           <ListItem>
             <Meta>Blockchain</Meta>
-            <span>Web3</span>
+            <span>Solana</span>
           </ListItem>
           <ListItem>
             <Meta>Stack</Meta>
-            <span>React, Typescript, Documentation</span>
+            <span>React, Typescript, Solana-Web3.js, Rust, Solana-py</span>
           </ListItem>
         </List>
 
