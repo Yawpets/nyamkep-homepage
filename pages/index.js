@@ -95,7 +95,7 @@ const Page = () => {
             First steps in programming.
           </BioSection>
           <BioSection>
-            <BioYear>2018-2023</BioYear>
+            <BioYear>2019-2023</BioYear>
             Worked at &quot;Gazprombank&quot;, Russia.
           </BioSection>
           <BioSection>
